@@ -18,3 +18,9 @@
 
 
 ![WhatsApp Image 2024-05-21 at 16 33 01](https://github.com/sarbbjeet/MSP430-BSL-Mode/assets/9445093/e1683e57-d812-42c3-9c4d-bf9a2b8c0ca8)
+
+## Commands 
+<p>Follow the official MSP430 documentation linked below to learn more about the various command sets used to read, write, and erase flash, among other topics.</p>
+
+https://www.ti.com/lit/ug/slau319af/slau319af.pdf?ts=1716238285686
+
