@@ -10,10 +10,10 @@
                 "msp430_funcs.c",
                 "${workspaceFolder}/program.c",
                 "-o",
-                "msp430_flasher.exe",   // msp430_flasher firmware.srec
-            "-L${workspaceFolder}",  // Add library search path
-                "-lftd2xx",              // Link against the ftd2xx library
-                "-I${workspaceFolder}"   // Add include search path
+              "msp430_flasher.exe",   // msp430_flasher firmware.srec
+              "-L${workspaceFolder}",  // Add library search path
+              "-lftd2xx",              // Link against the ftd2xx library
+                // "-I${workspaceFolder}"   // Add include search path
             ],
             "group": {
                 "kind": "build",
